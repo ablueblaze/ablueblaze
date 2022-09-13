@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blaze</h1>
 <h3 align="center">A Front-end developer with an interest in rapid development and community driven database.</h3>
 
-- 🌱 I’m currently learning **Mern stack**
+- 🌱 I’m currently learning the **Mern stack**
 
 - 📫 How to reach me **blaze@fyxwing.com**
 
