@@ -1,5 +1,5 @@
-# Hi, I'm Blaze
-## I'm a Front-end Web developer!
+<h1>Hi, I'm Blaze</h1> 
+<h3>I'm a Front-end Web developer!</h3>
 
 
 <!--
