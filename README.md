@@ -1,5 +1,5 @@
 <h1>Hi, I'm Blaze</h1> 
-<h3>I'm a Front-end Web developer!</h3>
+<h3>I'm a training to be a backend developer!</h3>
 
 
 <!--
